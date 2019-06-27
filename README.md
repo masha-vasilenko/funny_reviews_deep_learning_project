@@ -7,19 +7,21 @@ Our goal is to train different Neural Network algorithms to identify funny revie
 
 ### Algorithms 
 
-	We implemented the following algorithms using PyTorch:
+We implemented the following algorithms using PyTorch:
 	* LSTM
 	* GRU
 	* CNN
 	* CNN with pretrained embeddings
-      * LSTM +CNN
-      * GRU + CNN
+    * LSTM +CNN
+    * GRU + CNN
 	* Sequential LSTM-CNN
 	* Sequential CNN-LSTM
 	* Character based GRU
     
 <br>
+
 ### __Contributiors__
+
 * [Maria Vasilenko](https://github.com/mashamasha)
 * [Marwa Oussaifi](https://github.com/moussaifi)
 
