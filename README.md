@@ -31,4 +31,4 @@ We implemented the following algorithms using PyTorch:
 
 ### Aknowledgements:
 
-This project is based on the models taught by [Yannet Interian](https://github.com/yanneta) in [Deep Learning class](https://github.com/yanneta/deep-learning-with-pytorch)
+This project is based on the models taught by prof.[Yannet Interian](https://github.com/yanneta) in her [Deep Learning class](https://github.com/yanneta/deep-learning-with-pytorch)
